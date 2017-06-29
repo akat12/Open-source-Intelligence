@@ -1,8 +1,8 @@
 import facebook,oauth2,socket,json
 
 socket.timeout(10)
-app_id ="166897523846833"
-app_secret="1b05d5874eb955ee7f75435decc59844"
+app_id ="nananaana"
+app_secret="batman"
 link ="https://developers.facebook.com/tools/accesstoken/"
 
 with open('config') as json_data:
