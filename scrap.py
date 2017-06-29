@@ -12,8 +12,8 @@ def google_search(search_term,api_key, cse_id, **kwargs):
         i+=1
     return gsearch
 
-api_key="AIzaSyDai2S6pC_VaDCfYsFYqjPk5Qf23_TwAYQ"
-cse_id="000597688297972046908:nfsxuyodqhe"
+api_key="nyahahaha"
+cse_id="kerokero"
 
 query = raw_input("Enter query parameter")
 
