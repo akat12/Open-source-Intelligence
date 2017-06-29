@@ -2,8 +2,8 @@ import facebook
 import oauth2,socket
 
 socket.timeout(10)
-app_id ="166897523846833"
-app_secret="1b05d5874eb955ee7f75435decc59844"
+app_id ="meep"
+app_secret="kerokero"
 link ="https://developers.facebook.com/tools/accesstoken/"
 consumer = oauth2.Consumer(app_id,app_secret)
 client = oauth2.Client(consumer)
